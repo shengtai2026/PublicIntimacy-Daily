@@ -1,0 +1,24 @@
+Date: 2026-05-17
+City: Hangzhou
+Area: Tianjie
+Location type: Mall
+Weather: Sunny
+Temperature (C): 22
+Time: 8:52 PM
+Holding style: Arm in arm
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Only backs visible
+Clothing style: Casual
+Distinctive features: Two people walking arm in arm inside the mall.
+
+Clothing details:
+Male: light gray printed T-shirt, light white long pants;
+Female: white short-sleeve shirt, black short skirt, carrying a small brown backpack.
+
+Scene characteristics: Mall interior, with green store facades, "SALE" promotion signs, and other pedestrians in the background.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: inside shopping mall, near promotional area
