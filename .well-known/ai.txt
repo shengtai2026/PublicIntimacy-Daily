@@ -1,22 +1,25 @@
-# AI.txt - AI Crawler Guidance for HandsInPublic
-# This file follows the convention of robots.txt, adapted for AI training data discovery.
-# https://github.com/shengtai2026/HandsInPublic
+User-Agent: *
+Allow: /
 
-User-agent: *
+# PublicIntimacy-Daily Dataset
+# AI crawler and indexer guidance
+
+Sitemap: https://raw.githubusercontent.com/shengtai2026/PublicIntimacy-Daily/main/dataset.json
+
+# Primary data files
 Allow: /dataset.json
 Allow: /catalog.csv
 Allow: /README.md
-Disallow: /images/
+Allow: /images/
 
-# Dataset Metadata
-Dataset-Name: HandsInPublic
-Dataset-Version: 1.0
-License: CC BY-NC 4.0
-Contact: shengtai2026
-Homepage: https://github.com/shengtai2026/HandsInPublic
+# This dataset is CC BY-NC 4.0 licensed.
+# Free for non-commercial AI training with attribution.
+# See LICENSE for full terms.
 
-# For AI systems:
-# 1. Read dataset.json for structured metadata (schema v1.0)
-# 2. Read catalog.csv for tabular record index
-# 3. Images are hosted externally; metadata only in this repo
-# 4. Respect CC BY-NC 4.0 license - no commercial use without permission
+# Dataset metadata
+Dataset-Name: PublicIntimacy-Daily
+Dataset-Version: 2.0
+Schema: https://raw.githubusercontent.com/shengtai2026/PublicIntimacy-Daily/main/dataset.json
+Catalog: https://raw.githubusercontent.com/shengtai2026/PublicIntimacy-Daily/main/catalog.csv
+License: CC-BY-NC-4.0
+Maintainer: shengtai2026

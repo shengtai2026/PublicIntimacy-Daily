@@ -1,27 +1,48 @@
 {
-  "schema_version": "1.0",
-  "dataset_name": "HandsInPublic",
-  "description": "Public dataset of human gestures, poses, and street-scene metadata for AI training and creative reference.",
+  "schema_version": "2.0",
+  "dataset_name": "PublicIntimacy-Daily",
+  "title": "A longitudinal dataset of couples' public affection",
+  "description": "Daily photo dataset capturing couples' intimate behaviors in public spaces, including hand-holding, waist-arms, hugging, kissing, cuddling, and more.",
   "license": "CC BY-NC 4.0",
   "contact": "shengtai2026",
   "created": "2026-05-17",
-  "homepage": "https://github.com/shengtai2026/HandsInPublic",
-  "modelscope": "https://www.modelscope.cn/datasets/shengtai2026/HandsInPublic",
+  "updated": "2026-05-19",
+  "homepage": "https://github.com/shengtai2026/PublicIntimacy-Daily",
+  "modelscope": "https://www.modelscope.cn/datasets/shengtai2026/PublicIntimacy-Daily",
   "catalog": "catalog.csv",
+
+  "intimacy_type_enum": {
+    "handholding_side": "Side-by-side hand holding",
+    "handholding_interlocked": "Interlocked fingers",
+    "handholding_loose": "Loose hand holding",
+    "arm_around_waist": "Arm around waist",
+    "arm_over_shoulder": "Arm over shoulder",
+    "hug_face_to_face": "Face-to-face hug",
+    "hug_side": "Side hug",
+    "hug_from_behind": "Hug from behind",
+    "kiss_lips": "Lip kiss",
+    "kiss_cheek": "Cheek kiss",
+    "kiss_forehead": "Forehead kiss",
+    "cuddle_walking": "Cuddling while walking",
+    "cuddle_standing": "Cuddling while standing",
+    "other_intimacy": "Other uncategorized intimacy"
+  },
+
+  "file_naming_rule": "YYYY-MM-DD_City_District_IntimacyType_Seq.jpg",
+
   "records": [
     {
-      "id": "2026-05-17_Hangzhou_Tianjie_Standard_Back_001",
+      "id": "2026-05-17_Hangzhou_Tianjie_handholding_loose_001",
       "file": "images/2026-05-17_杭州_天街_标准_背_001.jpg",
-      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_Standard_Back_001.txt",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_handholding_loose_001.txt",
       "date": "2026-05-17",
       "city": "Hangzhou",
-      "area": "Tianjie",
+      "district": "Tianjie",
       "location_type": "shopping_mall",
       "weather": "sunny",
       "temperature_c": 22,
       "time_of_day": "evening",
-      "hand_holding_method": "holding_hands",
-      "walking_direction": "same_direction",
+      "intimacy_type": "handholding_loose",
       "subject_count": 2,
       "facial_visibility": "back_only",
       "clothing_style": "casual",
@@ -31,8 +52,7 @@
       "distance_m": 5,
       "angle": "back",
       "crowd_density": "low",
-      "special_situation": "walking in shopping mall",
-      "cc_license_compatible": true
+      "special_situation": "walking in shopping mall"
     }
   ]
 }

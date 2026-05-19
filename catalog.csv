@@ -1,2 +1,2 @@
-id,file,metadata_file,date,city,area,location_type,weather,temperature_c,time_of_day,subject_count,facial_visibility,angle,distance_m,crowd_density,license_compatible
-2026-05-17_Hangzhou_Tianjie_Standard_Back_001,images/2026-05-17_杭州_天街_标准_背_001.jpg,images/2026-05-17_Hangzhou_Tianjie_Standard_Back_001.txt,2026-05-17,Hangzhou,Tianjie,shopping_mall,sunny,22,evening,2,back_only,back,5,low,true
+id,file,metadata_file,date,city,district,location_type,weather,temperature_c,time_of_day,intimacy_type,subject_count,facial_visibility,angle,distance_m,crowd_density
+2026-05-17_Hangzhou_Tianjie_handholding_loose_001,images/2026-05-17_杭州_天街_标准_背_001.jpg,images/2026-05-17_Hangzhou_Tianjie_handholding_loose_001.txt,2026-05-17,Hangzhou,Tianjie,shopping_mall,sunny,22,evening,handholding_loose,2,back_only,back,5,low
