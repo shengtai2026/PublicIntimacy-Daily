@@ -188,6 +188,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "inside mall corridor with RED BOX kiosk and indicia store with mannequin"
+    },
+    {
+      "id": "2026-05-17_Hangzhou_Tianjie_handholding_side_008",
+      "file": "images/2026-05-17_Hangzhou_Tianjie_handholding_side_008.jpg",
+      "metadata_file": "images/2026-05-17_Hangzhou_Tianjie_handholding_side_008.txt",
+      "date": "2026-05-17",
+      "city": "Hangzhou",
+      "district": "Tianjie",
+      "location_type": "city_street",
+      "weather": "sunny",
+      "temperature_c": 22,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "girl holding onto guy arm while walking, night city street",
+      "female_clothing": "black top, green long skirt",
+      "male_clothing": "white T-shirt, jeans",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "nighttime outdoor city street with guardrails, bicycles and distant pedestrians"
     }
   ]
 }

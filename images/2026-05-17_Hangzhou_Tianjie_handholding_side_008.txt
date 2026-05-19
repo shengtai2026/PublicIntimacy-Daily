@@ -1,0 +1,24 @@
+Date: 2026-05-17
+City: Hangzhou
+Area: Tianjie (Paradise Walk)
+Location type: City street (outdoor)
+Weather: Sunny
+Temperature (C): 22
+Time: 8:47 PM
+Intimacy type: Girl holding the guy's arm (arm in arm)
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Backs only
+Clothing style: Casual
+Distinctive features: Girl is holding onto the guy's arm while walking.
+
+Clothing details:
+Male: white T-shirt, jeans;
+Female: black top, green long skirt.
+
+Scene characteristics: Nighttime city street sidewalk with brightly lit high-rise shops on both sides. On the right: metal guardrails and bicycles. Other pedestrians visible in the distance.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: outdoor city street at night
