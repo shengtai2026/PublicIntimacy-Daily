@@ -1,0 +1,24 @@
+Date: 2026-05-18
+City: Hangzhou
+Area: Xueyuan Street
+Location type: Street (zebra crossing)
+Weather: Sunny
+Temperature (C): 26
+Time: 9:46 AM
+Intimacy type: Hand in hand (holding hands)
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Backs only
+Clothing style: Casual
+Distinctive features: Couple walking together on a zebra crossing.
+
+Clothing details:
+Male: orange-yellow short hair, white top (couple outfit);
+Female: white T-shirt, khaki pants (couple outfit).
+
+Scene characteristics: Urban intersection scene. Nearby: green traffic light displaying "Safe and Fast Passage". Background: tall buildings and green trees.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: walking on zebra crossing at urban intersection with green traffic light

@@ -326,6 +326,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "urban park green belt with construction site and yellow tower crane in background, person in red riding bicycle in distance"
+    },
+    {
+      "id": "2026-05-18_Hangzhou_XueyuanStreet_handholding_side_014",
+      "file": "images/2026-05-18_Hangzhou_XueyuanStreet_handholding_side_014.jpg",
+      "metadata_file": "images/2026-05-18_Hangzhou_XueyuanStreet_handholding_side_014.txt",
+      "date": "2026-05-18",
+      "city": "Hangzhou",
+      "district": "XueyuanStreet",
+      "location_type": "street",
+      "weather": "sunny",
+      "temperature_c": 26,
+      "time_of_day": "morning",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "hand in hand walking together on zebra crossing at urban intersection",
+      "female_clothing": "white T-shirt, khaki pants (couple outfit)",
+      "male_clothing": "orange-yellow short hair, white top (couple outfit)",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "zebra crossing with green traffic light displaying Safe and Fast Passage, tall buildings and green trees in background"
     }
   ]
 }
