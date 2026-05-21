@@ -395,6 +395,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "bustling nighttime street with colorful LED-lit buildings, stone bollards, outdoor restaurant dining area with parasols"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_XiashaHuansi_handholding_side_017",
+      "file": "images/2026-05-19_Hangzhou_XiashaHuansi_handholding_side_017.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_XiashaHuansi_handholding_side_017.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "XiashaHuansi",
+      "location_type": "commercial_block",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "hand in hand walking side by side in vibrant nighttime commercial block",
+      "female_clothing": "yellow tank top, plaid mini skirt",
+      "male_clothing": "white T-shirt, gray pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "nighttime commercial block with DECATHLON and InCity Mall signage, outdoor dining area, green plant decorations"
     }
   ]
 }
