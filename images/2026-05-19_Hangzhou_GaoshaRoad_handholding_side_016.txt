@@ -1,0 +1,23 @@
+Date: 2026-05-19
+City: Hangzhou
+Area: Gaosha Road
+Location type: Street (nighttime urban sidewalk)
+Weather: Sunny
+Temperature (C): 24
+Time: 7:42 PM
+Intimacy type: Hand in hand (holding hands)
+Direction: Same direction
+Subjects: 2 people
+Facial visibility: Backs only
+Clothing style: Casual
+Distinctive features: Couple hand in hand walking along city sidewalk at night, with distinct shadows cast on the ground.
+
+Clothing details:
+(No specific clothing details provided in metadata)
+
+Scene characteristics: Bustling nighttime street. Distant high-rise buildings with colorful LED light strips (red and yellow). Streetlights illuminating the road surface. Left: parked electric scooters separated from roadway by stone bollards. Right: outdoor restaurant dining area with parasols and menu boards. Square-tiled sidewalk with distinct subject shadows.
+
+Distance (m): 5
+Angle: Back
+Crowd density: Low
+Special situation: bustling nighttime street with LED-lit buildings, stone bollards separating sidewalk, outdoor restaurant dining area with parasols

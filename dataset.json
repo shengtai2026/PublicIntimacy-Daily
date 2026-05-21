@@ -372,6 +372,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "nighttime urban sidewalk with parked e-bikes, yellow shared e-bikes, tactile blind path on ground, streetlights and high-rise lights illuminated"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_GaoshaRoad_handholding_side_016",
+      "file": "images/2026-05-19_Hangzhou_GaoshaRoad_handholding_side_016.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_GaoshaRoad_handholding_side_016.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "GaoshaRoad",
+      "location_type": "street",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "hand in hand walking along bustling nighttime sidewalk with distinct shadows",
+      "female_clothing": "unknown",
+      "male_clothing": "unknown",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "bustling nighttime street with colorful LED-lit buildings, stone bollards, outdoor restaurant dining area with parasols"
     }
   ]
 }
