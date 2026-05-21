@@ -349,6 +349,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "zebra crossing with green traffic light displaying Safe and Fast Passage, tall buildings and green trees in background"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_GaoshaRoad_handholding_side_015",
+      "file": "images/2026-05-19_Hangzhou_GaoshaRoad_handholding_side_015.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_GaoshaRoad_handholding_side_015.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "GaoshaRoad",
+      "location_type": "street",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "hand in hand walking along sidewalk at night",
+      "female_clothing": "unknown",
+      "male_clothing": "unknown",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "nighttime urban sidewalk with parked e-bikes, yellow shared e-bikes, tactile blind path on ground, streetlights and high-rise lights illuminated"
     }
   ]
 }
