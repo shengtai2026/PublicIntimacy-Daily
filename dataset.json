@@ -579,6 +579,29 @@
       "angle": "back",
       "crowd_density": "medium",
       "special_situation": "Xianyu Circular Store yellow storefront, diamond member free parking promotion, L2 floor indicator, moderate foot traffic"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_InCity_handholding_side_025",
+      "file": "images/2026-05-19_Hangzhou_InCity_handholding_side_025.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_InCity_handholding_side_025.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "InCity",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "holding hands in intimate and relaxed posture on mall corridor",
+      "female_clothing": "black T-shirt, white wide-leg pants",
+      "male_clothing": "white T-shirt, off-white casual pants",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "very_low",
+      "special_situation": "modern shopping mall interior with IMVP, HIMO, PASSION store signage, circular ceiling light fixtures, off-peak quiet atmosphere"
     }
   ]
 }
