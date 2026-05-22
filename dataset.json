@@ -671,6 +671,29 @@
       "angle": "back",
       "crowd_density": "low",
       "special_situation": "preparing to take escalator at mall central atrium, L5 floor indicator, hanging cartoon doll decorations, yellow warning sign, leopard-print escalator decorations"
+    },
+    {
+      "id": "2026-05-19_Hangzhou_InCity_handholding_side_029",
+      "file": "images/2026-05-19_Hangzhou_InCity_handholding_side_029.jpg",
+      "metadata_file": "images/2026-05-19_Hangzhou_InCity_handholding_side_029.txt",
+      "date": "2026-05-19",
+      "city": "Hangzhou",
+      "district": "InCity",
+      "location_type": "shopping_mall",
+      "weather": "sunny",
+      "temperature_c": 24,
+      "time_of_day": "evening",
+      "intimacy_type": "handholding_side",
+      "subject_count": 2,
+      "facial_visibility": "back_only",
+      "clothing_style": "casual",
+      "interaction": "holding hands walking side by side in mall corridor",
+      "female_clothing": "white short-sleeve top, white wide-leg pants",
+      "male_clothing": "white printed T-shirt, blue jeans",
+      "distance_m": 5,
+      "angle": "back",
+      "crowd_density": "low",
+      "special_situation": "fashion retail scene with SETIRCH store sign, clothing displays with mannequins and hanging garments, electronic screen visible in distance"
     }
   ]
 }

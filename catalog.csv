@@ -28,3 +28,5 @@ id,file,metadata_file,date,city,district,location_type,weather,temperature_c,tim
 2026-05-19_Hangzhou_InCity_arm_in_arm_026,images/2026-05-19_Hangzhou_InCity_arm_in_arm_026.jpg,images/2026-05-19_Hangzhou_InCity_arm_in_arm_026.txt,2026-05-19,Hangzhou,InCity,shopping_mall,sunny,24,evening,arm_in_arm_side,2,back_only,back,5,low
 2026-05-19_Hangzhou_InCity_handholding_side_027,images/2026-05-19_Hangzhou_InCity_handholding_side_027.jpg,images/2026-05-19_Hangzhou_InCity_handholding_side_027.txt,2026-05-19,Hangzhou,InCity,shopping_mall,sunny,24,evening,handholding_side,2,back_only,back,5,medium
 2026-05-19_Hangzhou_InCity_handholding_side_028,images/2026-05-19_Hangzhou_InCity_handholding_side_028.jpg,images/2026-05-19_Hangzhou_InCity_handholding_side_028.txt,2026-05-19,Hangzhou,InCity,shopping_mall,sunny,24,evening,handholding_side,2,back_only,back,5,low
+
+2026-05-19_Hangzhou_InCity_handholding_side_029,images/2026-05-19_Hangzhou_InCity_handholding_side_029.jpg,images/2026-05-19_Hangzhou_InCity_handholding_side_029.txt,2026-05-19,Hangzhou,InCity,shopping_mall,sunny,24,evening,handholding_side,2,back_only,back,5,low
